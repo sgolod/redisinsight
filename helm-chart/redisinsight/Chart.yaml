@@ -1,6 +1,7 @@
 apiVersion: v2
 name: redisinsight
-description: A Helm chart for Kubernetes
+description: Redisinsight helm chart for Kubernetes
+
 
 # A chart can be either an 'application' or a 'library' chart.
 #
@@ -24,3 +25,12 @@ version: 1.0.0
 appVersion: "2.54"
 
 icon: https://raw.githubusercontent.com/mrnim94/redisinsight/master/redisinsight.png
+home: https://nimtechnology.com/
+keywords:
+- redis
+- redisinsight
+maintainers:
+- email: mr.nim94@gmail.com
+  name: Nim
+sources:
+- https://github.com/mrnim94/redisinsight

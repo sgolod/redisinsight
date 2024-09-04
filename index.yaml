@@ -3,13 +3,22 @@ entries:
   redisinsight:
   - apiVersion: v2
     appVersion: "2.54"
-    created: "2024-09-04T16:55:32.13102967Z"
-    description: A Helm chart for Kubernetes
-    digest: 07efb866f7758ebae78815b1315c70b8a8f1a09e5912f218c8bc158066dcf00f
+    created: "2024-09-04T17:02:00.203034747Z"
+    description: Redisinsight helm chart for Kubernetes
+    digest: 1f6c147548452a75161d77be07318c013a909a45ee28a08412abe2a633b50168
+    home: https://nimtechnology.com/
     icon: https://raw.githubusercontent.com/mrnim94/redisinsight/master/redisinsight.png
+    keywords:
+    - redis
+    - redisinsight
+    maintainers:
+    - email: mr.nim94@gmail.com
+      name: Nim
     name: redisinsight
+    sources:
+    - https://github.com/mrnim94/redisinsight
     type: application
     urls:
     - redisinsight-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-04T16:55:32.130152944Z"
+generated: "2024-09-04T17:02:00.202077058Z"
