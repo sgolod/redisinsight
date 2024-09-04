@@ -3,12 +3,13 @@ entries:
   redisinsight:
   - apiVersion: v2
     appVersion: "2.54"
-    created: "2024-09-04T16:21:28.981251227Z"
+    created: "2024-09-04T16:55:32.13102967Z"
     description: A Helm chart for Kubernetes
-    digest: c33cdb10984e7895c1e490279687408228ce37a3ed457efd58320c5a15492600
+    digest: 07efb866f7758ebae78815b1315c70b8a8f1a09e5912f218c8bc158066dcf00f
+    icon: https://raw.githubusercontent.com/mrnim94/redisinsight/master/redisinsight.png
     name: redisinsight
     type: application
     urls:
     - redisinsight-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-04T16:21:28.979397559Z"
+generated: "2024-09-04T16:55:32.130152944Z"
