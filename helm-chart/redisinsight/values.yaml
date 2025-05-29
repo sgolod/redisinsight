@@ -87,6 +87,14 @@ autoscaling:
   targetCPUUtilizationPercentage: 80
   # targetMemoryUtilizationPercentage: 80
 
+# Persistence for RedisInsight data
+persistence:
+  enabled: true
+  accessMode: ReadWriteOnce
+  size: 1Gi
+  storageClassName: ""
+  selector: {}
+
 # Additional volumes on the output Deployment definition.
 volumes: []
 # - name: foo
